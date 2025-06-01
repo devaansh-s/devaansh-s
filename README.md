@@ -1,8 +1,6 @@
 # 💫 About Me:
-<br><br>
 
 ## 👋 Hi, I’m Devansh!<br><br>I’m a passionate technology enthusiast with a strong interest in software development, data systems, and real-time data integration. I enjoy building user-friendly applications that combine backend efficiency with clean and interactive front-end experiences.<br><br>My skillset includes working with databases, APIs, AI-powered tools, and modern web frameworks like React. I’m always eager to learn new technologies and take on challenges that help me grow as a developer.<br><br>Outside of coding, I’m involved in tech communities and love collaborating with others who share a passion for innovation and impact.<br><br>Feel free to explore my repositories and reach out — I’m open to ideas, feedback, and collaboration!<br><br>
-<br><br><br>
 
 
 ## 🌐 Socials:
